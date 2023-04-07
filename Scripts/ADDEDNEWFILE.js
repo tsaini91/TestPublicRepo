@@ -1,0 +1,1 @@
+aa.print("added file in classic admin scripts");

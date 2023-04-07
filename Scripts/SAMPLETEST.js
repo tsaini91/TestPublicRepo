@@ -1,0 +1,1 @@
+aa.print("EMSE Log Test via Events");
